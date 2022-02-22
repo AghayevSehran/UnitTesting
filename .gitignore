@@ -3,3 +3,25 @@
 ################################################################################
 
 /.vs/Example
+/Bongo.DataAccess.Tests/bin/Debug/net6.0
+/Bongo.DataAccess.Tests/obj
+/Bongo.Models.Tests/bin/Debug/net6.0
+/Bongo.Models.Tests/obj
+/Bongo.Web.Tests/bin/Debug/net6.0
+/Bongo.Web.Tests/obj
+/Bongo_InitialSetup/Bongo.Core/bin/Debug/net6.0
+/Bongo_InitialSetup/Bongo.Core/obj
+/Bongo_InitialSetup/Bongo.DataAccess/bin/Debug/net6.0
+/Bongo_InitialSetup/Bongo.DataAccess/obj
+/Bongo_InitialSetup/Bongo.Models/bin/Debug/net6.0
+/Bongo_InitialSetup/Bongo.Models/obj
+/Bongo_InitialSetup/Bongo.Web/bin/Debug/net6.0
+/Bongo_InitialSetup/Bongo.Web/obj
+/ExampleAddition/bin/Debug/net6.0
+/ExampleAddition/obj
+/ExampleAdditionMSTest/bin/Debug/net6.0
+/ExampleAdditionMSTest/obj
+/ExampleAdditionNUnitTest/bin/Debug/net6.0
+/ExampleAdditionNUnitTest/obj
+/ExampleAddtionXUnit/bin/Debug/net6.0
+/ExampleAddtionXUnit/obj
